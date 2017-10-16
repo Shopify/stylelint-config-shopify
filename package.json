@@ -40,6 +40,6 @@
     "eslint-plugin-shopify": "^16.0.1"
   },
   "peerDependencies": {
-    "stylelint": "8.0.x"
+    "stylelint": ">=8.0 <=8.1"
   }
 }
