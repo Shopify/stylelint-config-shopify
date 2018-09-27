@@ -13,7 +13,8 @@
     "test": "tape plugins/**/*.test.js"
   },
   "engines": {
-    "node": ">=8.10.0"
+    "node": ">=8.10.0",
+    "yarn": "<1.10.0"
   },
   "keywords": [
     "stylelint",
